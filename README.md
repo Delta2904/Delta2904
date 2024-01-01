@@ -1,8 +1,8 @@
 ### Hi world, I am a computer engineering student from UNAM
 
-🌱 I'm currently learning new skills to join into software engineering, cloud computing skills and AI
-🔭 I'm also member of SIAFI (Sociedad de Inteligencia Artificial de la Facultad de Ingenieria) an AI society from my university
-🚀 I'm happy to collaborate and start new projects that can enhance my skills and learning
+🌱 I'm currently learning new skills to join into software engineering, cloud computing skills and AI <br>
+🔭 I'm also member of SIAFI (Sociedad de Inteligencia Artificial de la Facultad de Ingenieria) an AI society from my university <br>
+🚀 I'm happy to collaborate and start new projects that can enhance my skills and learning <br>
 
 <!--
 **Delta2904/Delta2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
