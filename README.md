@@ -1,59 +1,36 @@
-# 👋 Hi! I'm Emiliano
+# Hi, I'm Emiliano Calderón 👋
 
-I am a Computer Engineering student with a strong focus on software engineering and competitive programming. I am actively involved in the Competitive Programming Club of the Faculty of Engineering (CPCFI) and the Artificial Intelligence Society of the Faculty of Engineering (SIAFI).
+**Software Engineer Intern @ Oracle | Computer Engineering Student @ UNAM**
 
----
-
-## 🚀 About Me
-
-- 📚 **Education**: Computer Engineering.
-- 🧠 **Interests**: Software engineering, competitive programming, AI/ML, and cybersecurity.
-- 🌎 **Languages**: Spanish (native), English (C2), and currently learning German (A1).
-- 📖 **Hobbies**: Coding challenges, exploring technological advancements, and learning about investments.
+I specialize in backend engineering, database architecture, and high-performance algorithms. Currently, I work as a Software Engineer Intern at Oracle (Database Cloud Service), building resilient database guardrails, refactoring CI/CD infrastructure, and optimizing PL/SQL and REST endpoints.
 
 ---
 
-## 🏆 Achievements and Featured Projects
+### ⚡ What I Do
 
-- **Competitive Programming**:
-  - Active member of CPCFI, focusing on problem-solving and algorithmic skills.
-  - Participation in events such as ICPC and IEEExtreme.
-
-- **Notable Projects**:
-  - Developed a kanji recognition system using deep learning, featuring an intuitive interface for uploading and analyzing images.
-
-- **Certifications**:
-  - Google Cloud Computing Foundations Certificate.
-  - In progress: Associate Cloud Engineer certification.
+* 🌲 **Software Engineering Intern @ Oracle (Database Cloud Service)**: Refactored legacy CLI tools into an in-memory validation API embedded in Jenkins pipelines (reducing verification time by 88%), engineered PL/SQL integrity guardrails for ExaCC, ExaCS, and ExaScale environments, and architected REST-enabled database packages.
+* 🏆 **Competitive Programming**: Active contestant in ICPC Gran Premio de México and IEEExtreme. Consistently solving complex algorithmic, memory, and time-complexity challenges in C++.
+* ⚙️ **Backend & Cloud Systems**: Experience designing cloud-hosted backend APIs using Supabase (PostgreSQL) and building automated pipeline diagnostics and system guardrails.
 
 ---
 
-## 💻 Technical Skills
+### 🛠️ Tech Stack
 
-- **Programming Languages**:
-  - C++: Advanced algorithms and competitive programming (CPCFI).
-  - Python: Software development and AI models (SIAFI projects).
-
-- **Software Engineering**:
-  - Strong foundation in data structures, algorithms, and system design.
-  - Experienced in solving complex problems through efficient coding techniques.
-
-- **Databases**:
-  - Proficient in SQL and Oracle (SQL*Plus).
-
-- **Cloud Computing**:
-  - Experience with Google Cloud Platform (GCP).
+* **Languages:** `C++` | `Python` | `SQL` (`PL/SQL`, `PostgreSQL`) | `Java` | `Perl` | `Bash`
+* **Databases & Infrastructure:** `Oracle DB` | `PostgreSQL` | `Jenkins` | `Docker` | `Supabase` | `GCP` | `Oracle APEX` | `Artifactory`
+* **Tools & Environment:** `Linux / Unix` | `Git` | `SQLcl` | `Make` | `LaTeX`
 
 ---
 
-## 🌟 Goals
+### 🚀 Featured Repository
 
-- 🌍 Participate in global programming competitions such as ICPC and other advanced contests.
-- 🎯 Secure internships at leading tech companies with a focus on software engineering.
-- 📈 Enhance skills in algorithms, data structures, and system design to excel in both competitive programming and real-world applications.
-- 🤖 Expand expertise in artificial intelligence and cybersecurity.
+#### 💡 [Codeforces Competitive Programming Repository](https://github.com/Delta2904)
+* Continuous learning repository featuring **250+ solved algorithmic challenges in C++**. 
+* Optimized with custom fast I/O macros and STL data structures tailored to strict execution time constraints.
 
 ---
 
-Thank you for visiting my profile! 😄
+### 📫 Connect & Links
 
+* **LinkedIn:** [linkedin.com/in/emiliano-calderon-fi](https://linkedin.com/in/emiliano-calderon-fi)[cite: 1]
+* **Codeforces:** [MangoFI](https://codeforces.com/profile/MangoFI)
