@@ -32,5 +32,5 @@ I specialize in backend engineering, database architecture, and high-performance
 
 ### 📫 Connect & Links
 
-* **LinkedIn:** [linkedin.com/in/emiliano-calderon-fi](https://linkedin.com/in/emiliano-calderon-fi)[cite: 1]
+* **LinkedIn:** [linkedin.com/in/emiliano-calderon-fi](https://linkedin.com/in/emiliano-calderon-fi)
 * **Codeforces:** [MangoFI](https://codeforces.com/profile/MangoFI)
